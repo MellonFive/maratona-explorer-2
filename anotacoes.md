@@ -4,3 +4,4 @@
 
 # Aula 03 https://efficient-sloth-d85.notion.site/Aula-03-aa8d323e16ad4cafb7bdd818dc05fd5b
 
+Você consegue sim aprender programação. Basta você querer! Goste de programação do mesmo jeito que você gosta de vídeo games.
